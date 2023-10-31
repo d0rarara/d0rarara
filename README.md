@@ -4,35 +4,46 @@
 
 </div>
 
-Welcome to my public github profile! Here is where I host projects I've worked on to showcase my skills and technologies I've worked with. 
+Welcome to my public github profile! Here is where I host projects I've worked on to showcase my skills and technologies I've worked with.
 
 ## About Me
 
-I'm currently a computer engineering student, pursuing a career in game development! 
-    
+I'm currently a math student, pursuing a career in game development!
+
 ## Technologies I love working with
 
-<div display="flex" align="center">
-  <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <!-- Typescript -->
-  <img src="https://img.shields.io/badge/Java-5382a1.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-</div>
+### <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="python logo" height="28pt"/> Python
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmhntr&layout=compact&theme=dark&hide_border=true" /> -->
-    
+#### [Mars invaders](https://github.com/d0rarara/MarsInvaders)
 
-<!--
-**d0rarara/d0rarara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A space-invader style game implemented in Python using the Pygame library. This was the first game I ever made, and I learned a lot about game development and programming in general while working on it. This was also the first coding project that I have worked on in a team, and I learned a lot about collaborative coding using git and GitHub.
 
-Here are some ideas to get you started:
+Skills: **Python, Pygame, game loops, collision detection, sprite animation.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="java logo" height="28pt"/> Java
+
+#### [Book Management System](https://github.com/d0rarara/book-management-system)
+
+This project was based on an assignment I completed for a data structures course. It simulates a realistic inventory database for a bookstore. I learned how to implement and operate on linked lists and circular linked lists, and how to use them to store and retrieve data. I also practiced data validation and error handling.
+
+Skills: **Java, linked lists, circular linked lists, file IO, data validation, error handling.**
+
+#### [Calculator GUI](https://github.com/d0rarara/GUI-Calculator)
+
+A simple calculator GUI implemented in Java using the Swing library. I learned how to use the Swing library to create a GUI, and how to implement the model-view-controller architecture.
+
+Skills: **Java, Swing, UI design, MVC architecture.**
+
+### <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="java logo" height="28pt"/> C
+
+#### [Credit Card Validation](https://github.com/code50/123691519/tree/main/credit)
+
+A credit card number validation system. This program contains an implementation of Luhn's algorithm, which is used to validate credit card numbers. It can also provide information on the card provider. I learned how to use the command line to compile and run C programs.
+
+Skills: **C, command line, algorithms.**
+
+#### [Scrabble](https://github.com/code50/123691519/tree/main/scrabble)
+
+A program that calculates the score of a word in Scrabble. I learned about the basics of C programming, including data types, variables, functions, and loops. I also learned about handling input and output.
+
+Skills: **C, command line, data types, variables, functions, loops, input/output.**

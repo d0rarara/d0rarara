@@ -1,14 +1,14 @@
 <div align="center">
   
-# :wave: Hey there
+# :wave: Hi, I'm Dori
 
 </div>
 
-Welcome to my public github profile!
+Welcome to my public github profile! Here is where I host projects I've worked on to showcase my skills and technologies I've worked with. 
 
 ## About Me
 
-I'm currently a computer engineering student, pursuing a career in game development!
+I'm currently a computer engineering student, pursuing a career in game development! 
     
 ## Technologies I love working with
 

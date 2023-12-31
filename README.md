@@ -20,6 +20,12 @@ A space-invader style game implemented in Python using the Pygame library. This 
 
 Skills: **Python, Pygame, game loops, collision detection, sprite animation.**
 
+#### [Movie Tracker](https://github.com/d0rarara/Movie-Tracker)
+
+A simple Flask web application that allows users to track and display movie releases based on selected genres. The application uses a SQLite database to store movie information and fetches additional details from The Movie Database (TMDb) API.
+
+Skills: **Python, SQL, Javascript, HTML, Flask, CSS**
+
 ### <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="java logo" height="28pt"/> Java
 
 #### [Book Management System](https://github.com/d0rarara/book-management-system)

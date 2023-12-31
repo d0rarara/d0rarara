@@ -8,7 +8,7 @@ Welcome to my public github profile! Here is where I host projects I've worked o
 
 ## About Me
 
-I'm currently a math student, pursuing a career in game development! I recently got my [Harvard CS50 certificate](https://cs50.harvard.edu/certificates/4cf18838-9d43-418e-b211-0ea9a804217e) This has helped me take my coding to the next level. 
+I'm currently a math student, pursuing a career in game development! I recently got my [Harvard CS50 certificate](https://cs50.harvard.edu/certificates/4cf18838-9d43-418e-b211-0ea9a804217e). This has helped me take my coding to the next level. 
 
 ## Technologies I love working with
 
